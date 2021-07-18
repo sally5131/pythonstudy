@@ -5,5 +5,3 @@ for i in range(n):
     for j in range(len(s)):
         print(s[j] * int(r), end='')
     print()
-
-
