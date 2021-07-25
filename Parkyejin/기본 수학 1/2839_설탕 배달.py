@@ -12,6 +12,3 @@ for i in range((N//5),-1,-1):
         sum = i + j
         print(sum)
         break
-
-
-
