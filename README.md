@@ -3,7 +3,7 @@ team_name : two summer and one autumn
 
 team_member : Park yejin, Kim yunjin, Hwang myongyeon
 
-cchool : SangMyung University
+school : SangMyung University
 
 major : Computer Science
 
