@@ -17,10 +17,3 @@ purpose : to share the problems which each of us has solved
 Let's study Python Algorithm! Go ahead! 
 
 Please save a file named "problem number_problem name.py" 
-
-
-Day 1 : 0711
-
-Day 2 : 0723
-
-Day 3 : 0730
